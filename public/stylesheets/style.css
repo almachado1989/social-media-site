@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+img {
+  max-width: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+form {
+  display: grid;
+  gap: 1rem;
+  background-color: salmon;
+  padding: 2rem;
+}
+
+.form-wrapper {
+  display: flex;
+  justify-content: center;
+}
